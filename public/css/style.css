@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+.bg-header {
+    background-color: crimson;
+}
+
+.bg-gray {
+    background-color: whitesmoke;
+}
+
+.regis-header {
+    background-color: crimson;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.font-style {
+    font-family: 'Poppins', sans-serif;
+}
+
+.style-title {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.style-nav,
+.style-nav:hover
+.style-nav a {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.position-form-login {
+    padding-top: 106px;
+    padding-bottom: 106px;
+}
+
+.position-form-add {
+    padding-top: 74px;
+    padding-bottom: 74px;
+}
+
+.position-transaction-detail {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.position-reset {
+    padding-top: 201px;
+    padding-bottom: 201px;
+}
+
+.position-form-change {
+    padding-top: 127px;
+    padding-bottom: 127px;
+}
+
+.position-cart-empty {
+    padding-top: 214px;
+    padding-bottom: 216px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.label-cart {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pizza-detail {
+    font-size: 18px;
+}
+
+.border-right {
+    border-width:5px;
+    border-right-style:outset;
+    border-right-color:#000000;
+}
+
+.dropdown-color,
+.dropdown-color:hover {
+    background: crimson;
+    color: black;
+}
+
+footer {
+    background: crimson;
+    padding: 15px 23px;
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+footer span a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+footer span a:hover {
+    text-decoration: underline;
+}
